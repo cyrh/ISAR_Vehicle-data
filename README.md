@@ -1,0 +1,1 @@
+"Vehicle target classification in inverse SAR imagery via multiview feature joint learning network",Journal of Applied Remote Sensing, Vol. 19, Issue 2, 026505 (April 2025). https://doi.org/10.1117/1.JRS.19.026505
